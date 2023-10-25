@@ -1,0 +1,17 @@
+.AvgPriceBox_Title {
+    color: rgba(255, 255, 255, 0.85);
+}
+
+.AvgPriceBox_Text {
+    color: rgba(255, 255, 255, 0.85);
+}
+
+.AvgPriceBox_Value {
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.AvgPriceBox_Comparision {
+    color: #809599;
+    font-size: 13px;
+}

@@ -1,0 +1,25 @@
+.InfoBoxDesktop {
+    background: linear-gradient(126.39deg,#f9ca23 0%,#42d6bb 135.51%);
+    min-height: 200px;
+    border-radius: 5px;
+    padding: 24px;
+    color: #000000;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.InfoBoxDesktop_Percentage {
+    margin-top: 20px;
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.InfoBoxDesktop_LearnMore {
+    text-decoration: underline;
+    color: #000000;
+}
+
+.InfoBoxDesktop_LearnMore a {
+    color: #000000;
+    font-size: 14px;
+}

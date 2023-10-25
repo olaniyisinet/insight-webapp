@@ -1,0 +1,48 @@
+#root {
+  width: 100%;  
+  padding: 0; 
+  margin:0;
+}
+
+.ant-menu-item-selected {
+  background-color: #42b01b !important;
+  color: #ffffff;
+  border-radius: 5px !important;
+}
+
+.ant-menu > .ant-menu-item:hover,
+.ant-menu > .ant-menu-item-active {
+  border-radius: 5px !important;
+}
+
+.ant-select-selector {
+  background-color: #021b29 !important;
+  border-radius: 5px !important;
+}
+
+.amplify-tabs button:focus {
+  outline: none !important;
+}
+
+.amplify-tabs button:hover {
+  border-color: #42b01b !important;
+}
+
+.amplify-tabs button {
+  color: #42b01b;
+}
+
+.amplify-button[data-variation='primary'] {
+  border-radius: 50px;
+  width: 160px;
+  align-self: center;
+  color: #ffffff;
+}
+
+
+[data-amplify-authenticator] [data-amplify-router] {
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.2);
+  border-style: none;
+}

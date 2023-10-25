@@ -1,0 +1,33 @@
+.InfoBoxMobile {
+    background: linear-gradient(126.39deg,#f9ca23 0%,#42d6bb 135.51%);
+    border-radius: 5px;
+    padding: 24px;
+    color: #000000;
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.InfoBoxMobile_PriceWrapper {
+    display: flex;
+    flex-direction: row;
+}
+
+.InfoBoxMobile_Price {
+    flex: 1;
+    margin-top: 18px;
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.InfoBoxMobile_LearnMore {
+    text-decoration: underline;
+    text-align: right;
+    color: #000000;
+    margin-top: 34px;
+}
+
+.InfoBoxMobile_LearnMore a {
+    color: #000000;
+    font-size: 14px;
+}

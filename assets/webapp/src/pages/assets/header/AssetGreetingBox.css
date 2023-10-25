@@ -1,0 +1,69 @@
+.GreetingBox {
+    flex: 1;
+}
+
+.GreetingBox_Tenant {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 24px;
+    color: rgba(255, 255, 255, 0.85);
+}
+
+.GreetingBox_TenantIcon {
+    width: 34px;
+    height: 34px;
+    line-height: 34px;
+    text-align: center;
+    border-radius: 30px;
+    font-size: 11px;
+    font-weight: 600;
+}
+
+.GreetingBox_TenantName {
+    color: #809599;
+    padding-left: 15px;
+    padding-top: 7px;
+}
+
+.GreetingBox_Greeting {
+    font-weight: 600;
+    font-size: 28px;
+    color: rgba(255, 255, 255, 0.85);
+}
+
+.GreetingBox_TreeLine {
+    display: flex;
+    flex-direction: row;
+}
+
+.GreetingBox_Tree {
+    flex: 1;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+.GreetingBox_Tagline {
+    color: #809599;
+    font-size: 14px;
+    padding-top: 15px;
+}
+
+.AssetsPage_Description {
+    margin-bottom: 24px;
+    color: rgba(255, 255, 255, 0.85);
+}
+
+
+@media (min-width: 992px) {
+    .GreetingBox_Greeting {
+        font-weight: 600;
+        font-size: 36px;
+        color: rgba(255, 255, 255, 0.85);
+    }
+
+    .GreetingBox_Tree {
+        flex: 1;
+        margin-top: 16px;
+        margin-left: 15px;
+    }
+}

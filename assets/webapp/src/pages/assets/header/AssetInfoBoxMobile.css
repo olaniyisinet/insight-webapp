@@ -1,0 +1,37 @@
+.AssetInfoBoxMobile {
+
+    border-radius: 5px;
+background: linear-gradient(141deg, #FF0404 0%, #FF90AB 0.01%, #EE0F44 100%);
+box-shadow: 8px 12px 28px 0px rgba(0, 0, 0, 0.10);
+    padding: 24px;
+    color: #000000;
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+
+
+.AssetInfoBoxMobile_PriceWrapper {
+    display: flex;
+    flex-direction: row;
+}
+
+.AssetInfoBoxMobile_Price {
+    flex: 1;
+    margin-top: 18px;
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.AssetInfoBoxMobile_LearnMore {
+    text-decoration: underline;
+    text-align: right;
+    color: #000000;
+    margin-top: 34px;
+}
+
+.AssetInfoBoxMobile_LearnMore a {
+    color: #000000;
+    font-size: 14px;
+}

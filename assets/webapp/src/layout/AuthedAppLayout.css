@@ -1,0 +1,37 @@
+.AuthedAppLayout {
+    height: 100vh;
+}
+
+.AuthedAppLayout_Wrapper {
+    background-color: #0e292d;
+    min-width: 390px !important;
+}
+
+.AuthedAppLayout_Sider {
+    background-color: #0d1926 !important;
+}
+
+.AuthedAppLayout_Header {
+    background-color:#0d1926;
+    padding: 0;
+}
+
+.AuthedAppLayout_Content {
+    background-color: #0e292d;
+    overflow-x: auto;
+    overflow-y: auto;
+}
+
+.AuthedAppLayout_ContenInner {
+    background-color: #021b29;
+    margin: 5px;
+    padding: 24px;
+}
+
+@media (min-width: 992px) {
+    .AuthedAppLayout_ContenInner {
+        background-color: #021b29;
+        padding: 44px;
+        margin: 24px;
+    }
+}

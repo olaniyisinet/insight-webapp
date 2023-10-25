@@ -1,0 +1,17 @@
+.ConsumptionBox_Title {
+    color: rgba(255, 255, 255, 0.85);
+}
+
+.ConsumptionBox_Text {
+    color: rgba(255, 255, 255, 0.85);
+}
+
+.ConsumptionBox_Value {
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.ConsumptionBox_Comparision {
+    color: #809599;
+    font-size: 13px;
+}

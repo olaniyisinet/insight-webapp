@@ -1,0 +1,23 @@
+.LoginHeader {
+    background-color: #0d1926;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.2);
+}
+
+.LoginHeader_AppLogo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 40px;
+    padding-bottom: 20px;
+    padding-top: 24px;
+}
+
+.LoginHeader_AppName {
+    color: #ffffff;
+    padding-top: 6px;
+    padding-left: 10px;
+    font-size: 21px;
+    font-weight: bolder;
+}

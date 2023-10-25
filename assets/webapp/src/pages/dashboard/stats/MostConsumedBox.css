@@ -1,0 +1,17 @@
+.MostConsumedBox_Title {
+    color: rgba(255, 255, 255, 0.85);
+}
+
+.MostConsumedBox_Text {
+    color: rgba(255, 255, 255, 0.85);
+}
+
+.MostConsumedBox_Value {
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.MostConsumedBox_Comparision {
+    color: #809599;
+    font-size: 13px;
+}

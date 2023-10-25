@@ -1,0 +1,29 @@
+.AuthedSetupLayout {
+    height: 100vh;
+}
+
+.AuthedSetupLayout_Wrapper {
+    background-color: #021b29;
+}
+
+.AuthedSetupLayout_Sider {
+    background-color: #0d1926 !important;
+}
+
+.AuthedSetupLayout_Header {
+    background-color:#0d1926;
+    padding: 0;
+}
+
+.AuthedSetupLayout_Content {
+    background-color: #0e292d;
+    min-width: 200px;
+    overflow-x: auto;
+    overflow-y: auto;
+}
+
+.AuthedSetupLayout_ContenInner {
+    background-color: #021b29;
+    margin: 24px;
+    padding: 24px;
+}

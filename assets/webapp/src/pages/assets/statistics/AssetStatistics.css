@@ -1,0 +1,26 @@
+
+  .StatisticsBox_Title {
+    color: rgba(255, 255, 255, 0.85);
+}
+
+.StatisticsBox_Text {
+    color: rgba(255, 255, 255, 0.85);
+}
+
+.StatisticsBox_Value {
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.StatisticsBox_Comparision {
+    color: #809599;
+    font-size: 13px;
+}
+
+.StatsSummary {
+    margin-top: 24px;
+}
+
+.StatsSummary_Box {
+    padding-top: 24px;
+}

@@ -1,0 +1,27 @@
+.AssetInfoBoxDesktop {
+/* background: linear-gradient(141deg, #FF0404 0%, #FF90AB 0.01%, #EE0F44 100%); */
+background: linear-gradient(126.39deg,#f9ca23 0%,#42d6bb 135.51%);
+box-shadow: 8px 12px 28px 0px rgba(0, 0, 0, 0.10);
+    min-height: 200px;
+    border-radius: 5px;
+    padding: 24px;
+    color: #000000;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.AssetInfoBoxDesktop_Percentage {
+    margin-top: 20px;
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.AssetInfoBoxDesktop_LearnMore {
+    text-decoration: underline;
+    color: #000000;
+}
+
+.AssetInfoBoxDesktop_LearnMore a {
+    color: #000000;
+    font-size: 14px;
+}

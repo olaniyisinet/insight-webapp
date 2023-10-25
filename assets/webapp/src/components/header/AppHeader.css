@@ -1,0 +1,35 @@
+.AppHeader {
+    display: flex;
+    flex-direction: row;
+}
+
+.AppHeader_Trigger {
+    padding: 0 24px;
+    font-size: 18px;
+    line-height: 64px;
+    cursor: pointer;
+    transition: color 0.3s;
+    color: rgba(255, 255, 255, 0.85);
+  }
+  
+.AppHeader_Trigger:hover {
+    color: #42b01b;
+}
+
+.AppHeader_Title {
+    color: rgba(255, 255, 255, 0.85);
+    font-weight: bold;
+    font-size: 18px;
+    flex: 1;
+}
+
+.AppHeader_Logo {
+    margin-top: 13px;
+    margin-left: 24px;
+    cursor: pointer;
+}
+
+.AppHeader_CompanyInfo {
+    color: rgba(255, 255, 255, 0.85);
+    padding-right: 24px;
+}
